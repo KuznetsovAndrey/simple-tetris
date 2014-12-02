@@ -1,6 +1,5 @@
 /**
  * Tetris application
- * Created by Andrey Kuznetsov, tiqurillo@gmail.com
  * Used: requirejs and PIXI
  */
 

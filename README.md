@@ -13,3 +13,5 @@ To launch using node:
 + or:
 
 > node tetris.js
+
+Application is running on port 8080 by default. After running node.js script open localhost:8080 in browser.
